@@ -48,7 +48,7 @@ students study smarter — not harder.
 ## 🚀 How to Run Locally
 
 **Step 1 — Clone the repository**
-git clone https://github.com/yourusername/ai-exam-chatbot.git
+git clone https://github.com/Harshi1409/ai-exam-chatbot.git
 cd ai-exam-chatbot
 
 **Step 2 — Install dependencies**
